@@ -258,7 +258,7 @@ Number of land tiles in map: 55
 
 ## Exercise 10
 
-Binary invader alert! Download <a href="invader.cs">this file</a>, it contains a jagged array (an array of arrays with a fixed size). You can get the dimensions of a jagged array using this syntax:
+Binary invader alert! Download <a href="https://raw.githubusercontent.com/henrikql/yh-oop19/master/Week1/invader.cs">this file</a>, it contains a jagged array (an array of arrays with a fixed size). You can get the dimensions of a jagged array using this syntax:
 
 ```csharp
 var height = invader.GetLength(0);
