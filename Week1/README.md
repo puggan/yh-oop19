@@ -237,7 +237,7 @@ Please input size of tree: <b>8</b>
 
 In this exercise you're going to read a map from a file and calculate how much land there is on it.
 
-<a href="map.txt">Download this file</a> and save it somewhere on your disk.
+<a href="https://raw.githubusercontent.com/henrikql/yh-oop19/master/Week1/map.txt">Download this file</a> and save it somewhere on your disk.
 
 The map is very simple, "." represents water and "#" represents land. Write an application that can read the map data and tell how much land there is ( = counts how many # there is).
 
