@@ -17,7 +17,7 @@ Please submit this form by Friday:
 
 Let's see if we still remember how to write code.
 
-As you know, `Console.ReadLine()` returns a `string`. Write a static method called `ReadInteger` that repeatedly asks the user for an **`int`** instead. Additionally the method should take a `string` as an argument and write it to the user before asking.
+As you know, `Console.ReadLine()` returns a `string`. Write a static method called `ReadInt` that repeatedly asks the user for an **`int`** instead. Additionally the method should take a `string` as an argument and write it to the user before asking.
 
 It should work like this:
 
@@ -46,7 +46,7 @@ Type another number: <b>337</b>
 
 ## Exercise 2
 
-Armed with your new `ReadInteger` method, write an application that asks for two years, then outputs out all years between them and mark every leap year with a star.
+Armed with your new `ReadInt` method, write an application that asks for two years, then outputs out all years between them and mark every leap year with a star.
 
 * The years must be between 0 and 9999
 * The second year must be after the first year
